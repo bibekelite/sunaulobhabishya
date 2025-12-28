@@ -48,6 +48,11 @@ export default function AboutPage() {
       position: "Advisor",
       image: "/placeholder-user.jpg",
     },
+    {
+      name: "Prakash Poudel",
+      position: "Advisor",
+      image: "/prakash.jpg",
+    },
     
   ]
 

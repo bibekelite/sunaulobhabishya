@@ -42,7 +42,7 @@ export default function BranchesPage() {
                 mapUrl: "https://maps.app.goo.gl/GhNzJaeXVMLGzXNHA",
               },
               {
-                name: "Koteshwor Bhaktapur Branch",
+                name: "Koteshwor Branch",
                 address: "Suryabinayak 02, Bhaktapur",
                 phone: "",
                 whatsapp: "9760870137",
