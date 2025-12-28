@@ -54,11 +54,11 @@ export default function ContactPage() {
               <h4 className="font-bold text-foreground text-xl sm:text-2xl">Head Office & Clinics</h4>
               <div className="space-y-3">
                 <div className="p-4 bg-card border border-border rounded-lg hover:border-primary transition-colors">
-                  <p className="font-semibold text-foreground mb-1">Mitra Park Kathmandu Branch</p>
+                  <p className="font-semibold text-foreground mb-1">Mitra Park Branch</p>
                   <p className="text-sm text-muted-foreground">📞 014585797 | 9851000531</p>
                 </div>
                 <div className="p-4 bg-card border border-border rounded-lg hover:border-primary transition-colors">
-                  <p className="font-semibold text-foreground mb-1">Koteshwor Bhaktapur Branch</p>
+                  <p className="font-semibold text-foreground mb-1">Koteshwor Branch</p>
                   <p className="text-sm text-muted-foreground">📞 9760870137</p>
                 </div>
                 <div className="p-4 bg-card border border-border rounded-lg hover:border-primary transition-colors">
