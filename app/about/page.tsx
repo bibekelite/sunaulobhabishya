@@ -50,8 +50,13 @@ export default function AboutPage() {
     },
     {
       name: "Prakash Poudel",
-      position: "Advisor",
+      position: "Health & Economist",
       image: "/prakash.jpg",
+    },
+    {
+      name: "Anil kumar Poudyal",
+      position: "Administrative Advisor",
+      image: "/anil.jpg",
     },
     
   ]
