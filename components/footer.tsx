@@ -3,8 +3,8 @@ import { Heart, Facebook } from "lucide-react"
 
 export default function Footer() {
   const branches = [
-    { name: "Mitra Park Kathmandu", facebook: "https://facebook.com/sunaulobhabishyakathmandu" },
-    { name: "Koteshwor Bhaktapur", facebook: "https://facebook.com/sunaulobhabishyabhaktapur" },
+    { name: "Mitra Park", facebook: "https://facebook.com/sunaulobhabishyakathmandu" },
+    { name: "Koteshwor", facebook: "https://facebook.com/sunaulobhabishyabhaktapur" },
     { name: "Hetauda", facebook: "https://www.facebook.com/sunaulobhabishyanepal.hetauda.9" },
     { name: "Narayanghat", facebook: "https://www.facebook.com/profile.php?id=100081492745681" },
     { name: "Samakhusi", facebook: "https://facebook.com/sunaulobhabishyapokhara" },
