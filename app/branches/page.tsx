@@ -56,7 +56,7 @@ export default function BranchesPage() {
                 phone: "057527325",
                 whatsapp: "9855068832",
                 hours: "Sunday-Friday: 9 AM - 5 PM",
-                image: "/hetauda-nepal.jpg",
+                image: "/hetauda-nepal.jpeg",
                 mapUrl: "https://maps.app.goo.gl/dYfDyc9XwgrFcpkw6",
               },
               {
